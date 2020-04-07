@@ -1,8 +1,5 @@
 """
 用户身份验证
-
-Version: 0.1
-Author: 骆昊
 """
 
 username = input('请输入用户名: ')
